@@ -46,7 +46,7 @@ env:
   # 🖊️ EDIT to change the image registry settings.
   # Registries such as GHCR, Quay.io, and Docker Hub are supported.
   IMAGE_REGISTRY: docker.io/sunnysudershan
-  IMAGE_REGISTRY_USER: sunnysudershan@gmail.com
+  IMAGE_REGISTRY_USER: sunnysudershan
   IMAGE_REGISTRY_PASSWORD: ${{ github.token }}
 
   # 🖊️ EDIT to specify custom tags for the container image, or default tags will be generated below.
